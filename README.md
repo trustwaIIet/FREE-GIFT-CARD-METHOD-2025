@@ -6,4 +6,4 @@ LEARN HOW TO GET FREE GIFTCARDS USING JAVASCRIPT INJECTION
 DOWNLOAD THE PDF FILE NAMED  "StartHere"
 
 
-Follow the instructions
+Follow the instructions/.
